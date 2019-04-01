@@ -11,7 +11,7 @@
     },
     "dependencies": {
         "buffertools": "^2.1.2",
-        "bindings": "^1.1.0",
+        "node-loader": "git://github.com/gch1p/node-loader.git#master",
         "nan": "^2.2.1"
     },
     "devDependencies": {
@@ -25,9 +25,9 @@
     },
     "repository": "https://github.com/santigimeno/node-pcsclite.git",
     "keywords": [
-      "pcsc",
-      "pcsclite",
-      "smartcards"
+        "pcsc",
+        "pcsclite",
+        "smartcards"
     ],
     "author": "Santiago Gimeno <santiago.gimeno@gmail.com>",
     "license": {
